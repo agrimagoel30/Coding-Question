@@ -10,7 +10,7 @@ public:
         }
         sort(v.begin(),v.end());
         while(i<j){
-            sum=v[i].first+v[j].first;
+            sum=v[i].first+v[j].first;                                              
             if(sum==target)
             return {v[i].second,v[j].second};
             else if(sum<target)
