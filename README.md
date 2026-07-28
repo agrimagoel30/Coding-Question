@@ -27,6 +27,7 @@ Leetcode
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/agrimagoel30/Coding-Question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Leetcode
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/agrimagoel30/Coding-Question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
