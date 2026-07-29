@@ -8,6 +8,7 @@ Leetcode
 | [0013-roman-to-integer](https://github.com/agrimagoel30/Coding-Question/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/agrimagoel30/Coding-Question/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/agrimagoel30/Coding-Question/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/agrimagoel30/Coding-Question/tree/main/0013-roman-to-integer/) | Easy |
+| [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@ Leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
