@@ -36,11 +36,13 @@ Leetcode
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/agrimagoel30/Coding-Question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,9 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 <!---LeetCode Topics End-->
