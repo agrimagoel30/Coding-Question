@@ -22,6 +22,7 @@ Leetcode
 | [0013-roman-to-integer](https://github.com/agrimagoel30/Coding-Question/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
+| [0796-rotate-string](https://github.com/agrimagoel30/Coding-Question/tree/main/0796-rotate-string/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/agrimagoel30/Coding-Question/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -75,4 +76,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/agrimagoel30/Coding-Question/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
