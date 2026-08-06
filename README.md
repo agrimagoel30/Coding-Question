@@ -115,4 +115,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/agrimagoel30/Coding-Question/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 <!---LeetCode Topics End-->
