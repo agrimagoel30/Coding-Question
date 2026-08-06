@@ -23,6 +23,7 @@ Leetcode
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/agrimagoel30/Coding-Question/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/agrimagoel30/Coding-Question/tree/main/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/agrimagoel30/Coding-Question/tree/main/0068-text-justification/) | Hard |
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/agrimagoel30/Coding-Question/tree/main/0796-rotate-string/) | Easy |
@@ -34,6 +35,7 @@ Leetcode
 | [0031-next-permutation](https://github.com/agrimagoel30/Coding-Question/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/agrimagoel30/Coding-Question/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/agrimagoel30/Coding-Question/tree/main/0048-rotate-image/) | Medium |
+| [0068-text-justification](https://github.com/agrimagoel30/Coding-Question/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/agrimagoel30/Coding-Question/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/agrimagoel30/Coding-Question/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -73,6 +75,7 @@ Leetcode
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/agrimagoel30/Coding-Question/tree/main/0068-text-justification/) | Hard |
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Heap (Priority Queue)
