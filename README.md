@@ -10,11 +10,13 @@ Leetcode
 | [0073-set-matrix-zeroes](https://github.com/agrimagoel30/Coding-Question/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/agrimagoel30/Coding-Question/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/agrimagoel30/Coding-Question/tree/main/0048-rotate-image/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@ Leetcode
 | [0041-first-missing-positive](https://github.com/agrimagoel30/Coding-Question/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/agrimagoel30/Coding-Question/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/agrimagoel30/Coding-Question/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -99,4 +102,12 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/agrimagoel30/Coding-Question/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
