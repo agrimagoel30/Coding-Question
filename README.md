@@ -27,6 +27,7 @@ Leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/agrimagoel30/Coding-Question/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/agrimagoel30/Coding-Question/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/agrimagoel30/Coding-Question/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/agrimagoel30/Coding-Question/tree/main/0048-rotate-image/) | Medium |
@@ -47,6 +48,7 @@ Leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/agrimagoel30/Coding-Question/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/agrimagoel30/Coding-Question/tree/main/0031-next-permutation/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Binary Search
