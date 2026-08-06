@@ -20,6 +20,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/agrimagoel30/Coding-Question/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/agrimagoel30/Coding-Question/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/agrimagoel30/Coding-Question/tree/main/0796-rotate-string/) | Easy |
