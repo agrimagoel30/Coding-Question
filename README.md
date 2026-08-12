@@ -11,6 +11,7 @@ Leetcode
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Leetcode
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/agrimagoel30/Coding-Question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +121,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/agrimagoel30/Coding-Question/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
