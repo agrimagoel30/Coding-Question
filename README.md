@@ -12,6 +12,7 @@ Leetcode
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/agrimagoel30/Coding-Question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Leetcode
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/agrimagoel30/Coding-Question/tree/main/0796-rotate-string/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/agrimagoel30/Coding-Question/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/agrimagoel30/Coding-Question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,5 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/agrimagoel30/Coding-Question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
