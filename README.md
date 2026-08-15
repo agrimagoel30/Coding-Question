@@ -50,6 +50,7 @@ Leetcode
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/agrimagoel30/Coding-Question/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/agrimagoel30/Coding-Question/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/agrimagoel30/Coding-Question/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
