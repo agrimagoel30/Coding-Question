@@ -20,6 +20,7 @@ Leetcode
 | [0048-rotate-image](https://github.com/agrimagoel30/Coding-Question/tree/main/0048-rotate-image/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Leetcode
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/agrimagoel30/Coding-Question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -91,6 +93,7 @@ Leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -130,4 +133,24 @@ Leetcode
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/agrimagoel30/Coding-Question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
