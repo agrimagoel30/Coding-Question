@@ -20,6 +20,7 @@ Leetcode
 | [0048-rotate-image](https://github.com/agrimagoel30/Coding-Question/tree/main/0048-rotate-image/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1922-count-good-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -153,4 +154,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
