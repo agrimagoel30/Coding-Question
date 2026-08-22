@@ -22,6 +22,7 @@ Leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1922-count-good-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/agrimagoel30/Coding-Question/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
