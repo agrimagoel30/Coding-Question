@@ -21,6 +21,7 @@ Leetcode
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1922-count-good-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/1922-count-good-numbers/) | Medium |
+| [1927-sum-game](https://github.com/agrimagoel30/Coding-Question/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/agrimagoel30/Coding-Question/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
@@ -32,6 +33,7 @@ Leetcode
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/agrimagoel30/Coding-Question/tree/main/0796-rotate-string/) | Easy |
+| [1927-sum-game](https://github.com/agrimagoel30/Coding-Question/tree/main/1927-sum-game/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/agrimagoel30/Coding-Question/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/agrimagoel30/Coding-Question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
@@ -95,6 +97,7 @@ Leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/agrimagoel30/Coding-Question/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## String Matching
@@ -146,6 +149,7 @@ Leetcode
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/agrimagoel30/Coding-Question/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
