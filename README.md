@@ -162,5 +162,10 @@ Leetcode
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/agrimagoel30/Coding-Question/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1922-count-good-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/1922-count-good-numbers/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/agrimagoel30/Coding-Question/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
