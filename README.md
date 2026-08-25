@@ -8,6 +8,7 @@ Leetcode
 | [0013-roman-to-integer](https://github.com/agrimagoel30/Coding-Question/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/agrimagoel30/Coding-Question/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/agrimagoel30/Coding-Question/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/agrimagoel30/Coding-Question/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -69,6 +70,7 @@ Leetcode
 | [0027-remove-element](https://github.com/agrimagoel30/Coding-Question/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/agrimagoel30/Coding-Question/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/agrimagoel30/Coding-Question/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/agrimagoel30/Coding-Question/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -167,5 +169,6 @@ Leetcode
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/agrimagoel30/Coding-Question/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/agrimagoel30/Coding-Question/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
