@@ -67,6 +67,7 @@ Leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/agrimagoel30/Coding-Question/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/agrimagoel30/Coding-Question/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/agrimagoel30/Coding-Question/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/agrimagoel30/Coding-Question/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -169,6 +170,7 @@ Leetcode
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/agrimagoel30/Coding-Question/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/agrimagoel30/Coding-Question/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/agrimagoel30/Coding-Question/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
