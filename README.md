@@ -52,6 +52,7 @@ Leetcode
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/agrimagoel30/Coding-Question/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/agrimagoel30/Coding-Question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -91,6 +92,7 @@ Leetcode
 | ------- | ------- |
 | [0068-text-justification](https://github.com/agrimagoel30/Coding-Question/tree/main/0068-text-justification/) | Hard |
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/agrimagoel30/Coding-Question/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/agrimagoel30/Coding-Question/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -173,4 +175,12 @@ Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agrimagoel30/Coding-Question/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/agrimagoel30/Coding-Question/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/agrimagoel30/Coding-Question/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/agrimagoel30/Coding-Question/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/agrimagoel30/Coding-Question/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
