@@ -12,6 +12,7 @@ Leetcode
 | [0205-isomorphic-strings](https://github.com/agrimagoel30/Coding-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/agrimagoel30/Coding-Question/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/agrimagoel30/Coding-Question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
@@ -49,6 +50,7 @@ Leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/agrimagoel30/Coding-Question/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -134,6 +136,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/agrimagoel30/Coding-Question/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agrimagoel30/Coding-Question/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/agrimagoel30/Coding-Question/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/agrimagoel30/Coding-Question/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +197,8 @@ Leetcode
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/agrimagoel30/Coding-Question/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/agrimagoel30/Coding-Question/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
