@@ -145,6 +145,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/agrimagoel30/Coding-Question/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [2595-number-of-even-and-odd-bits](https://github.com/agrimagoel30/Coding-Question/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/agrimagoel30/Coding-Question/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
