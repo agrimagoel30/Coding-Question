@@ -52,6 +52,7 @@ Leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/agrimagoel30/Coding-Question/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agrimagoel30/Coding-Question/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -66,6 +67,7 @@ Leetcode
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/agrimagoel30/Coding-Question/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/agrimagoel30/Coding-Question/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/agrimagoel30/Coding-Question/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@ Leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/agrimagoel30/Coding-Question/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1927-sum-game](https://github.com/agrimagoel30/Coding-Question/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/agrimagoel30/Coding-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/agrimagoel30/Coding-Question/tree/main/2542-maximum-subsequence-score/) | Medium |
