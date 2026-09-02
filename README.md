@@ -53,6 +53,7 @@ Leetcode
 | [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
 | [0867-transpose-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/0867-transpose-matrix/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/agrimagoel30/Coding-Question/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1109-corporate-flight-bookings](https://github.com/agrimagoel30/Coding-Question/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/agrimagoel30/Coding-Question/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/agrimagoel30/Coding-Question/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agrimagoel30/Coding-Question/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -205,4 +206,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/agrimagoel30/Coding-Question/tree/main/0706-design-hashmap/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1109-corporate-flight-bookings](https://github.com/agrimagoel30/Coding-Question/tree/main/1109-corporate-flight-bookings/) | Medium |
 <!---LeetCode Topics End-->
